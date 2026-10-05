@@ -1,0 +1,200 @@
+[
+    {
+        "timestamp": "05-10-2026  03:52:03 PM",
+        "actor": "sun001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:52:09 PM",
+        "actor": "sun001",
+        "action": "STUDENT_LOGIN",
+        "detail": "PRN: SUN001"
+    },
+    {
+        "timestamp": "05-10-2026  03:53:07 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:53:12 PM",
+        "actor": "th01",
+        "action": "TEACHER_LOGIN",
+        "detail": "TID: TH101"
+    },
+    {
+        "timestamp": "05-10-2026  03:55:44 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:55:56 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:56:00 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:56:14 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:56:27 PM",
+        "actor": "sun001",
+        "action": "STUDENT_LOGIN",
+        "detail": "PRN: SUN001"
+    },
+    {
+        "timestamp": "05-10-2026  03:58:40 PM",
+        "actor": "ADMIN",
+        "action": "REGISTER_FACE_ID",
+        "detail": "Face ID registered for student SUN032 (Shubham Jadhav)"
+    },
+    {
+        "timestamp": "05-10-2026  03:58:49 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:58:59 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:59:09 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:59:14 PM",
+        "actor": "th001",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:59:18 PM",
+        "actor": "th101",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  03:59:40 PM",
+        "actor": "th01",
+        "action": "TEACHER_LOGIN",
+        "detail": "TID: TH101"
+    },
+    {
+        "timestamp": "05-10-2026  03:59:44 PM",
+        "actor": "Prof.Darshan Ahire",
+        "action": "START_ATTENDANCE_SESSION",
+        "detail": "Session: ATT-20261005-DBMS-001, Subject: DBMS"
+    },
+    {
+        "timestamp": "05-10-2026  04:00:01 PM",
+        "actor": "TEACHER",
+        "action": "END_ATTENDANCE_SESSION",
+        "detail": "Session: ATT-20261005-DBMS-001"
+    },
+    {
+        "timestamp": "05-10-2026  04:00:06 PM",
+        "actor": "Prof.Darshan Ahire",
+        "action": "START_ATTENDANCE_SESSION",
+        "detail": "Session: ATT-20261005-DBMS-002, Subject: DBMS"
+    },
+    {
+        "timestamp": "05-10-2026  04:00:19 PM",
+        "actor": "TEACHER",
+        "action": "END_ATTENDANCE_SESSION",
+        "detail": "Session: ATT-20261005-DBMS-002"
+    },
+    {
+        "timestamp": "05-10-2026  04:17:35 PM",
+        "actor": "sun001",
+        "action": "STUDENT_LOGIN",
+        "detail": "PRN: SUN001"
+    },
+    {
+        "timestamp": "05-10-2026  04:48:08 PM",
+        "actor": "th01",
+        "action": "TEACHER_LOGIN",
+        "detail": "TID: TH101"
+    },
+    {
+        "timestamp": "05-10-2026  04:48:10 PM",
+        "actor": "Prof.Darshan Ahire",
+        "action": "START_ATTENDANCE_SESSION",
+        "detail": "Session: ATT-20261005-DBMS-003, Subject: DBMS"
+    },
+    {
+        "timestamp": "05-10-2026  04:48:17 PM",
+        "actor": "TEACHER",
+        "action": "END_ATTENDANCE_SESSION",
+        "detail": "Session: ATT-20261005-DBMS-003"
+    },
+    {
+        "timestamp": "05-10-2026  04:48:58 PM",
+        "actor": "sun001",
+        "action": "STUDENT_LOGIN",
+        "detail": "PRN: SUN001"
+    },
+    {
+        "timestamp": "05-10-2026  11:01:26 PM",
+        "actor": "th01",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  11:01:31 PM",
+        "actor": "th01",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  11:01:37 PM",
+        "actor": "th01",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  11:01:43 PM",
+        "actor": "th01",
+        "action": "FAILED_LOGIN",
+        "detail": "Web Login Attempt"
+    },
+    {
+        "timestamp": "05-10-2026  11:01:53 PM",
+        "actor": "th01",
+        "action": "TEACHER_LOGIN",
+        "detail": "TID: TH101"
+    },
+    {
+        "timestamp": "05-10-2026  11:09:00 PM",
+        "actor": "th01",
+        "action": "TEACHER_LOGIN",
+        "detail": "TID: TH101"
+    },
+    {
+        "timestamp": "05-10-2026  11:12:31 PM",
+        "actor": "sun1",
+        "action": "SIGNUP",
+        "detail": "New student registered \u2013 PRN: 250105181032, Name: Gaikar Satyjit"
+    },
+    {
+        "timestamp": "05-10-2026  11:12:44 PM",
+        "actor": "th01",
+        "action": "TEACHER_LOGIN",
+        "detail": "TID: TH101"
+    }
+]

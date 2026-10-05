@@ -1,0 +1,137 @@
+{
+    "TT001": {
+        "id": "TT001",
+        "day": "Monday",
+        "time": "09:00-10:00",
+        "subject": "DML",
+        "teacher": "Prof.Darshan Ahire",
+        "room": "CSE-101",
+        "dept": "Computer Science"
+    },
+    "TT002": {
+        "id": "TT002",
+        "day": "Monday",
+        "time": "10:00-11:00",
+        "subject": "Python",
+        "teacher": "Prof. Rahul Sharma",
+        "room": "Lab-2",
+        "dept": "Computer Science"
+    },
+    "TT003": {
+        "id": "TT003",
+        "day": "Monday",
+        "time": "11:30-12:30",
+        "subject": "DBMS",
+        "teacher": "Prof. Neha Kulkarni",
+        "room": "CSE-102",
+        "dept": "Computer Science"
+    },
+    "TT004": {
+        "id": "TT004",
+        "day": "Tuesday",
+        "time": "09:00-10:00",
+        "subject": "Mathematics",
+        "teacher": "Prof. Amit Joshi",
+        "room": "CSE-101",
+        "dept": "Computer Science"
+    },
+    "TT005": {
+        "id": "TT005",
+        "day": "Tuesday",
+        "time": "10:00-11:00",
+        "subject": "DML",
+        "teacher": "Prof.Darshan Ahire",
+        "room": "CSE-101",
+        "dept": "Computer Science"
+    },
+    "TT006": {
+        "id": "TT006",
+        "day": "Tuesday",
+        "time": "11:30-12:30",
+        "subject": "Python",
+        "teacher": "Prof. Rahul Sharma",
+        "room": "Lab-2",
+        "dept": "Computer Science"
+    },
+    "TT007": {
+        "id": "TT007",
+        "day": "Wednesday",
+        "time": "09:00-10:00",
+        "subject": "DBMS",
+        "teacher": "Prof. Neha Kulkarni",
+        "room": "CSE-102",
+        "dept": "Computer Science"
+    },
+    "TT008": {
+        "id": "TT008",
+        "day": "Wednesday",
+        "time": "10:00-11:00",
+        "subject": "DML",
+        "teacher": "Prof.Darshan Ahire",
+        "room": "CSE-101",
+        "dept": "Computer Science"
+    },
+    "TT009": {
+        "id": "TT009",
+        "day": "Wednesday",
+        "time": "11:30-12:30",
+        "subject": "Mathematics",
+        "teacher": "Prof. Amit Joshi",
+        "room": "CSE-101",
+        "dept": "Computer Science"
+    },
+    "TT010": {
+        "id": "TT010",
+        "day": "Thursday",
+        "time": "09:00-10:00",
+        "subject": "Python",
+        "teacher": "Prof. Rahul Sharma",
+        "room": "Lab-2",
+        "dept": "Computer Science"
+    },
+    "TT011": {
+        "id": "TT011",
+        "day": "Thursday",
+        "time": "10:00-11:00",
+        "subject": "DBMS",
+        "teacher": "Prof. Neha Kulkarni",
+        "room": "CSE-102",
+        "dept": "Computer Science"
+    },
+    "TT012": {
+        "id": "TT012",
+        "day": "Thursday",
+        "time": "11:30-12:30",
+        "subject": "DML",
+        "teacher": "Prof.Darshan Ahire",
+        "room": "CSE-101",
+        "dept": "Computer Science"
+    },
+    "TT013": {
+        "id": "TT013",
+        "day": "Friday",
+        "time": "09:00-10:00",
+        "subject": "DML",
+        "teacher": "Prof.Darshan Ahire",
+        "room": "CSE-101",
+        "dept": "Computer Science"
+    },
+    "TT014": {
+        "id": "TT014",
+        "day": "Friday",
+        "time": "10:00-11:00",
+        "subject": "Mathematics",
+        "teacher": "Prof. Amit Joshi",
+        "room": "CSE-101",
+        "dept": "Computer Science"
+    },
+    "TT015": {
+        "id": "TT015",
+        "day": "Friday",
+        "time": "11:30-12:30",
+        "subject": "Python Lab",
+        "teacher": "Prof. Rahul Sharma",
+        "room": "Lab-2",
+        "dept": "Computer Science"
+    }
+}

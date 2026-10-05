@@ -1,0 +1,50 @@
+{
+    "TH101": {
+        "tid": "TH101",
+        "name": "Prof.Darshan Ahire",
+        "email": "darshan.ahire@sandipuniversity.com",
+        "phone": "9921422682",
+        "dept": "Computer Science",
+        "subjects": "DML",
+        "qual": "M.Tech CSE",
+        "username": "th01",
+        "created_on": "05-10-2026 09:50:51 AM",
+        "created_by": "ADMIN"
+    },
+    "TH102": {
+        "tid": "TH102",
+        "name": "Prof. Rahul Sharma",
+        "email": "rahul.sharma@sandipuniversity.com",
+        "phone": "9822334455",
+        "dept": "Computer Science",
+        "subjects": "Python",
+        "qual": "Ph.D. CSE",
+        "username": "th02",
+        "created_on": "05-10-2026 09:55:00 AM",
+        "created_by": "ADMIN"
+    },
+    "TH103": {
+        "tid": "TH103",
+        "name": "Prof. Neha Kulkarni",
+        "email": "neha.kulkarni@sandipuniversity.com",
+        "phone": "9733445566",
+        "dept": "Computer Science",
+        "subjects": "DBMS",
+        "qual": "M.Tech IT",
+        "username": "th03",
+        "created_on": "05-10-2026 09:56:00 AM",
+        "created_by": "ADMIN"
+    },
+    "TH104": {
+        "tid": "TH104",
+        "name": "Prof. Amit Joshi",
+        "email": "amit.joshi@sandipuniversity.com",
+        "phone": "9644556677",
+        "dept": "Computer Science",
+        "subjects": "Mathematics",
+        "qual": "Ph.D. Applied Math",
+        "username": "th04",
+        "created_on": "05-10-2026 09:57:00 AM",
+        "created_by": "ADMIN"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "DML": {
+        "code": "CS301",
+        "name": "Discrete Mathematics & Logic",
+        "dept": "Computer Science",
+        "teacher": "Prof.Darshan Ahire",
+        "teacher_id": "TH101",
+        "credits": 4,
+        "topics": [
+            "Sets",
+            "Relations",
+            "Functions",
+            "Logic",
+            "Propositions",
+            "Truth Tables",
+            "Mathematical Logic",
+            "Graph Theory",
+            "Trees",
+            "Recurrence Relations",
+            "Combinatorics",
+            "Boolean Algebra"
+        ]
+    },
+    "Python": {
+        "code": "CS302",
+        "name": "Python Programming & Applications",
+        "dept": "Computer Science",
+        "teacher": "Prof. Rahul Sharma",
+        "teacher_id": "TH102",
+        "credits": 4,
+        "topics": [
+            "Data Structures",
+            "OOP",
+            "Flask Web Dev",
+            "NumPy",
+            "OpenCV",
+            "Face Recognition"
+        ]
+    },
+    "DBMS": {
+        "code": "CS303",
+        "name": "Database Management Systems",
+        "dept": "Computer Science",
+        "teacher": "Prof. Neha Kulkarni",
+        "teacher_id": "TH103",
+        "credits": 4,
+        "topics": [
+            "Relational Algebra",
+            "SQL Queries",
+            "Normalization",
+            "Indexing",
+            "Transactions & ACID"
+        ]
+    },
+    "Mathematics": {
+        "code": "CS304",
+        "name": "Applied Mathematics",
+        "dept": "Computer Science",
+        "teacher": "Prof. Amit Joshi",
+        "teacher_id": "TH104",
+        "credits": 3,
+        "topics": [
+            "Linear Algebra",
+            "Calculus",
+            "Probability & Statistics",
+            "Numerical Methods"
+        ]
+    }
+}

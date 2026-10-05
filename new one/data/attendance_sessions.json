@@ -1,0 +1,59 @@
+{
+    "ATT-20261005-DML-001": {
+        "session_id": "ATT-20261005-DML-001",
+        "subject": "DML",
+        "division": "B.Tech CS 1st Year",
+        "date": "2026-10-05",
+        "lecture_time": "09:00-10:00",
+        "teacher": "Prof.Darshan Ahire",
+        "teacher_id": "TH101",
+        "duration": 60,
+        "is_active": true,
+        "created_at": "05-10-2026 09:00:00"
+    },
+    "ATT-20261005-DBMS-001": {
+        "session_id": "ATT-20261005-DBMS-001",
+        "subject": "DBMS",
+        "class_name": "B.Tech Computer Science",
+        "division": "1st Year",
+        "lecture": "Lecture (09:00-10:00)",
+        "lecture_time": "09:00-10:00",
+        "date": "2026-10-05",
+        "teacher": "Prof.Darshan Ahire",
+        "teacher_id": "TH101",
+        "duration": 60,
+        "is_active": false,
+        "created_at": "05-10-2026  03:59:44 PM",
+        "ended_at": "05-10-2026  04:00:01 PM"
+    },
+    "ATT-20261005-DBMS-002": {
+        "session_id": "ATT-20261005-DBMS-002",
+        "subject": "DBMS",
+        "class_name": "B.Tech Computer Science",
+        "division": "1st Year",
+        "lecture": "Lecture (09:00-10:00)",
+        "lecture_time": "09:00-10:00",
+        "date": "2026-10-05",
+        "teacher": "Prof.Darshan Ahire",
+        "teacher_id": "TH101",
+        "duration": 60,
+        "is_active": false,
+        "created_at": "05-10-2026  04:00:06 PM",
+        "ended_at": "05-10-2026  04:00:19 PM"
+    },
+    "ATT-20261005-DBMS-003": {
+        "session_id": "ATT-20261005-DBMS-003",
+        "subject": "DBMS",
+        "class_name": "B.Tech Computer Science",
+        "division": "1st Year",
+        "lecture": "Lecture (09:00-10:00)",
+        "lecture_time": "09:00-10:00",
+        "date": "2026-10-05",
+        "teacher": "Prof.Darshan Ahire",
+        "teacher_id": "TH101",
+        "duration": 60,
+        "is_active": false,
+        "created_at": "05-10-2026  04:48:10 PM",
+        "ended_at": "05-10-2026  04:48:17 PM"
+    }
+}

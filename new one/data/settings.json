@@ -1,0 +1,6 @@
+{
+    "good_threshold": 75.0,
+    "warning_threshold": 65.0,
+    "face_match_threshold": 0.65,
+    "college_name": "Sandip University, Nashik"
+}
